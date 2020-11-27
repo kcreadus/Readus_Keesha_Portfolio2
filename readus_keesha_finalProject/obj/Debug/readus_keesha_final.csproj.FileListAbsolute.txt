@@ -1,0 +1,7 @@
+C:\Users\Keesha Readus\source\repos\readus_keesha_final\readus_keesha_final\bin\Debug\readus_keesha_final.exe.config
+C:\Users\Keesha Readus\source\repos\readus_keesha_final\readus_keesha_final\bin\Debug\readus_keesha_final.exe
+C:\Users\Keesha Readus\source\repos\readus_keesha_final\readus_keesha_final\bin\Debug\readus_keesha_final.pdb
+C:\Users\Keesha Readus\source\repos\readus_keesha_final\readus_keesha_final\obj\Debug\readus_keesha_final.csprojAssemblyReference.cache
+C:\Users\Keesha Readus\source\repos\readus_keesha_final\readus_keesha_final\obj\Debug\readus_keesha_final.csproj.CoreCompileInputs.cache
+C:\Users\Keesha Readus\source\repos\readus_keesha_final\readus_keesha_final\obj\Debug\readus_keesha_final.exe
+C:\Users\Keesha Readus\source\repos\readus_keesha_final\readus_keesha_final\obj\Debug\readus_keesha_final.pdb
